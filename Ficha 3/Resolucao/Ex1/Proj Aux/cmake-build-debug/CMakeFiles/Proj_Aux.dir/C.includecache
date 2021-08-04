@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/RC-PL-2021/Ficha 3/Resolucao/Ex1/Proj Aux/clienteTcp.c
+stdio.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+netdb.h
+-
+
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/RC-PL-2021/Ficha 3/Resolucao/Ex1/Proj Aux/main.c
+stdio.h
+-
+
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/RC-PL-2021/Ficha 3/Resolucao/Ex1/Proj Aux/servidorTcp.c
+sys/socket.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+unistd.h
+-
+stdlib.h
+-
+stdio.h
+-
+netdb.h
+-
+string.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+

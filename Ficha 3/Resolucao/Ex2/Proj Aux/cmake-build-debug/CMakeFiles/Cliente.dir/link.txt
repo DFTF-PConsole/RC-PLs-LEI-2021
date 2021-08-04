@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/Cliente.dir/cliente.c.o -o Cliente.exe -Wl,--out-implib,libCliente.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

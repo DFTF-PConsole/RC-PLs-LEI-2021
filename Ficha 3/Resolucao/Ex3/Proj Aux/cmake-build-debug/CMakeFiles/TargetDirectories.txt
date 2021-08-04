@@ -1,0 +1,4 @@
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/RC-PL-2021/Ficha 3/Resolucao/Ex3/Proj Aux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/RC-PL-2021/Ficha 3/Resolucao/Ex3/Proj Aux/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/RC-PL-2021/Ficha 3/Resolucao/Ex3/Proj Aux/cmake-build-debug/CMakeFiles/Servidor.dir
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/RC-PL-2021/Ficha 3/Resolucao/Ex3/Proj Aux/cmake-build-debug/CMakeFiles/Main.dir

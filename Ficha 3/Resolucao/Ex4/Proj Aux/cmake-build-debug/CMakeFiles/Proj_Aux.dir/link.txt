@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/Proj_Aux.dir/main.c.o CMakeFiles/Proj_Aux.dir/servidor.c.o CMakeFiles/Proj_Aux.dir/cliente.c.o -o Proj_Aux.exe -Wl,--out-implib,libProj_Aux.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
